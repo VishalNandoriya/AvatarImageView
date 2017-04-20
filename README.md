@@ -7,3 +7,4 @@ The @IBDesignable designation lets Interface Builder know that it should render 
 
 This allows seeing how your custom views will appear without building and running your app after each change.
 
+![N|Solid](https://github.com/VishalNandoriya/AvtarImageView/blob/master/Screen%20Shot%202017-04-20%20at%2012.45.36%20PM.png)
